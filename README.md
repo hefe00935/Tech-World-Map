@@ -1,96 +1,125 @@
-🚀 Tech Monitor
+<div align="center">
 
-Real-time Technology Intelligence Dashboard
-AI-powered news aggregation, infrastructure monitoring, startup ecosystem tracking, and cloud intelligence — unified into one situational awareness interface.
+# Tech Monitor
 
-<p align="center"> <a href="https://techmapmalvnox.netlify.app/"> <img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <img src="https://img.shields.io/badge/Built%20With-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Edge-Runtime-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI-LLM%20Powered-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge" /> </p>
-🌍 Live Deployment
+### Real-Time Technology Intelligence Infrastructure
 
-🔗 Demo:
+AI-powered global signal aggregation, infrastructure mapping, and ecosystem monitoring — unified into one high-resolution situational awareness interface.
+
+<br/>
+
+<a href="https://techmapmalvnox.netlify.app/">
+  <img src="https://img.shields.io/badge/Live%20Platform-Launch-black?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Built%20With-TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Runtime-Edge-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Augmented-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Active-111111?style=for-the-badge" />
+
+<br/><br/>
+
+**Live Deployment**  
 https://techmapmalvnox.netlify.app/
 
-🧠 Why Tech Monitor?
-Problem	Solution
-Fragmented tech news & funding data	Unified intelligence dashboard with 100+ curated feeds
-No geographic context	Interactive global map with 25+ data layers
-Signal overload in AI & cybersecurity	AI-synthesized briefs + anomaly detection
-Expensive monitoring platforms	Fully deployable open architecture
-Static reporting dashboards	Real-time streaming intelligence
-🗺 Core Capabilities
-Interactive Intelligence Map
+</div>
 
-25+ toggleable infrastructure layers
+---
 
-AI datacenters & cloud regions
+## Overview
 
-Startup hubs & accelerators
+Tech Monitor is a real-time intelligence dashboard designed for high-signal environments.
 
-Undersea cables & digital chokepoints
+It fuses global infrastructure data, AI classification pipelines, and streaming anomaly detection into a single operational interface.
 
-Optional geopolitical overlays
+Built for clarity.  
+Designed for velocity.  
+Optimized for signal.
 
-Time filtering (1h → 7d)
+---
 
-AI Intelligence Pipeline
+## Core Systems
 
-Hybrid keyword + LLM classification
+### Global Intelligence Map
+- Multi-layer infrastructure visualization  
+- Cloud & AI datacenter overlays  
+- Startup ecosystem density mapping  
+- Undersea cable routes  
+- Temporal filtering (1h → 7d)
 
-Convergence detection
+### AI Signal Engine
+- Hybrid keyword + semantic classification  
+- Real-time convergence detection  
+- Instability scoring model  
+- Automated brief synthesis  
+- Browser-side clustering
 
-Instability scoring
+### Monitoring Grid
+- Curated global RSS ingestion  
+- Market & macro tracking  
+- Stablecoin and ETF signal awareness  
+- Outage & anomaly monitoring  
+- Satellite event ingestion
 
-Semantic clustering
+### Aggregation Layer
+- Streaming variance (Welford method)  
+- Z-score anomaly detection  
+- Regional hotspot escalation  
+- Multi-source fusion pipeline  
 
-AI-generated global briefs
+---
 
-Real-Time Monitoring
+## Architecture
 
-100+ RSS feeds
+| Layer | Stack |
+|-------|--------|
+| Frontend | TypeScript · Vite · MapLibre · deck.gl |
+| AI Layer | LLM inference pipeline |
+| Runtime | Edge execution |
+| Cache | Redis |
+| Relay | WebSocket bridge |
+| Data | Market feeds · RSS · Satellite · Network telemetry |
 
-Market & macro signal radar
+---
 
-ETF flow estimation
+## Design Philosophy
 
-Stablecoin monitoring
+- Minimal surface area  
+- Maximum signal density  
+- No noise dashboards  
+- Real-time first  
+- Infrastructure aware  
 
-Internet outage tracking
+---
 
-Satellite fire detection
+## Quick Start
 
-Signal Aggregation Engine
+```bash
+git clone https://github.com/YOUR_USERNAME/tech-monitor.git
+cd tech-monitor
+npm install
+npm run dev
+```
 
-Multi-source fusion
+---
 
-Z-score anomaly detection
+## Repository Topics
 
-Regional convergence scoring
-
-Escalation tracking
-
-⚙ Tech Stack
-Layer	Technologies
-Frontend	TypeScript, Vite, MapLibre GL, deck.gl
-AI	LLM inference pipeline + browser ML
-Cache	Redis
-Runtime	Edge Functions
-Relay	WebSocket server
-Data	RSS, market feeds, satellite data
-🚀 Project Structure
-/src
-/components
-/hooks
-/lib
-/docs
-/public
-
-📌 GitHub Topics (Add in Settings)
+```
 tech-intelligence
 real-time-dashboard
 ai-monitoring
-cybersecurity
-startup-ecosystem
+osint
 cloud-infrastructure
 map-visualization
 typescript
-osint
-open-source
+edge-runtime
+startup-ecosystem
+```
+
+---
+
+<div align="center">
+
+### Built for operators, analysts, and high-signal environments.
+
+</div>
